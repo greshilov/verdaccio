@@ -2307,15 +2307,10 @@
     jsdom "15.2.1"
     marked "0.7.0"
 
-"@verdaccio/streams@9.6.1":
-  version "9.6.1"
-  resolved "https://registry.verdaccio.org/@verdaccio%2fstreams/-/streams-9.6.1.tgz#2ab565743c093d7a2f8834c62f37dfc36f2a4d5b"
-  integrity sha512-P4DFWvB9BNCDAh/sYPr59JW8N9uxAtlIx0Xa0vobxy+4cvvmP9lrMbeK4liH5yKJmwKmiEIZ6SxfTKR/MqbOpw==
-
-"@verdaccio/streams@^9.3.2", "@verdaccio/streams@^9.4.0", "@verdaccio/streams@^9.7.1":
-  version "9.7.1"
-  resolved "https://registry.npmjs.org/@verdaccio/streams/-/streams-9.7.1.tgz#dea568efbe7e93618f61b6846b419e527e621859"
-  integrity sha512-zs0YNfK8isiJQrcM9EGjFNbgTQ+HU7oUzGYxXsx/MA9JGAkSIAoAmf6ndRrzeSLUVF9/MyTufP8BCH3Z9Vf1aQ==
+"@verdaccio/streams@9.7.2", "@verdaccio/streams@^9.3.2", "@verdaccio/streams@^9.4.0", "@verdaccio/streams@^9.7.1":
+  version "9.7.2"
+  resolved "https://registry.npmjs.org/@verdaccio/streams/-/streams-9.7.2.tgz#cd5448470d725e221629adb84c74af7dfd8c9678"
+  integrity sha512-SoCG1btVFPxOcrs8w9wLJCfe8nfE6EaEXCXyRwGbh+Sr3NLEG0R8JOugGJbuSE+zIRuUs5JaUKjzSec+JKLvZw==
 
 "@verdaccio/types@^9.7.0":
   version "9.7.0"
