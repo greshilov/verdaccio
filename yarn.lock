@@ -2322,10 +2322,10 @@
   resolved "https://registry.npmjs.org/@verdaccio/types/-/types-9.7.0.tgz#6ec72aee7be2617c609cd736cb6e7b70cc5199c7"
   integrity sha512-QeijEgVBVRTGyOteIl+RD4aiEbiUM1SkN7UAjZxhwns0o2YebdO+Z2iphmx0EZdo4STnWLuGSRlJexTaU/+lDQ==
 
-"@verdaccio/ui-theme@1.12.0", "@verdaccio/ui-theme@^1.0.0":
-  version "1.12.0"
-  resolved "https://registry.npmjs.org/@verdaccio/ui-theme/-/ui-theme-1.12.0.tgz#67877460a588697d922b7200478b9e4a090133df"
-  integrity sha512-9TxM0KsQRBzefkk2I0glnn11klhuQGOMAQ+VJzlznCB0p4k/+AIBKD38t6YNdg0kruZZ6blE+ZZ6mLf2AuaCmw==
+"@verdaccio/ui-theme@1.15.1", "@verdaccio/ui-theme@^1.0.0":
+  version "1.15.1"
+  resolved "https://registry.npmjs.org/@verdaccio/ui-theme/-/ui-theme-1.15.1.tgz#463f12ce3b4950bba1f3f23d5c592b7b235b2652"
+  integrity sha512-CSd/NnVuqWQo7RnmL7ehZeAEYUbvGM33VmWGzoO91Ujny2tbhlg7kdpbfiEIoKl8Yc2wd9bVMd1HJATDF2uHGw==
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
