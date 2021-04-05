@@ -2307,10 +2307,10 @@
     jsdom "15.2.1"
     marked "0.7.0"
 
-"@verdaccio/streams@9.6.1":
-  version "9.6.1"
-  resolved "https://registry.verdaccio.org/@verdaccio%2fstreams/-/streams-9.6.1.tgz#2ab565743c093d7a2f8834c62f37dfc36f2a4d5b"
-  integrity sha512-P4DFWvB9BNCDAh/sYPr59JW8N9uxAtlIx0Xa0vobxy+4cvvmP9lrMbeK4liH5yKJmwKmiEIZ6SxfTKR/MqbOpw==
+"@verdaccio/streams@10.0.0":
+  version "10.0.0"
+  resolved "https://registry.npmjs.org/@verdaccio/streams/-/streams-10.0.0.tgz#8b06e1d6f06e906ebda0f1d4089cdb651a533541"
+  integrity sha512-PqxxY11HhweN6z1lwfn9ydLCdnOkCPpthMZs+SGCDz8Rt6gOyrjJVslV7o4uobDipjD9+hUPpJHDeO33Qt24uw==
 
 "@verdaccio/streams@^9.3.2", "@verdaccio/streams@^9.4.0", "@verdaccio/streams@^9.7.1":
   version "9.7.1"
